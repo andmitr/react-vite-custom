@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
 
 [![Support me on Boosty](https://img.shields.io/badge/Boosty-Support%20me-%23f15f2c?style=for-the-badge)](https://boosty.to/theEvilGrinch/donate)
-[![Donate](https://img.shields.io/badge/Donate-%23702ff4?style=for-the-badge)](https://yoomity.ru/to/410016288289737)
+[![Donate via card](https://img.shields.io/badge/Donate-%23702ff4?style=for-the-badge)](https://yoomity.ru/to/410016288289737)
 
 Frontend boilerplate with pre-configured development environment. Includes ESLint and Stylelint setup, structured styles with mixins and variables, light/dark theme system, cookie handling, PWA manifest with icons, development server configuration, and removable template components for rapid project initialization.
 
@@ -139,8 +139,4 @@ Contributions, issues, and feature requests are welcome. Feel free to check the 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Maintained by [@theEvilGrinch](https://github.com/theEvilGrinch)
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
